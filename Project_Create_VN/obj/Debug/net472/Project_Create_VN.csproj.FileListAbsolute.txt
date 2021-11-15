@@ -1,0 +1,15 @@
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\bin\Debug\net472\Project_Create_VN.dll
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\bin\Debug\net472\Project_Create_VN.pdb
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\bin\Debug\net472\KAPITypes.dll
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\bin\Debug\net472\Kompas6API5.dll
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\bin\Debug\net472\Kompas6Constants.dll
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\bin\Debug\net472\KompasAPI7.dll
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\bin\Debug\net472\Kompas6Constants3D.dll
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\obj\Debug\net472\Project_Create_VN.csproj.AssemblyReference.cache
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\obj\Debug\net472\Project_Create_VN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\obj\Debug\net472\Project_Create_VN.AssemblyInfoInputs.cache
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\obj\Debug\net472\Project_Create_VN.AssemblyInfo.cs
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\obj\Debug\net472\Project_Create_VN.csproj.CoreCompileInputs.cache
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\obj\Debug\net472\Project_Create_VN.csproj.CopyComplete
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\obj\Debug\net472\Project_Create_VN.dll
+C:\Users\smirnovgv\Desktop\Project_Create_VN\Project_Create_VN\obj\Debug\net472\Project_Create_VN.pdb
